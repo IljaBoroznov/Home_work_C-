@@ -1,0 +1,16 @@
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.GlobalUsings.g.cs
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.AssemblyInfo.cs
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\bin\Debug\net6.0\дз-4.exe
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\bin\Debug\net6.0\дз-4.deps.json
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\bin\Debug\net6.0\дз-4.runtimeconfig.json
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\bin\Debug\net6.0\дз-4.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\bin\Debug\net6.0\ref\дз-4.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\bin\Debug\net6.0\дз-4.pdb
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\ref\дз-4.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.pdb
+C:\Users\Илья\Desktop\GeekBrains\C#\1 lection\дз-4\obj\Debug\net6.0\дз-4.genruntimeconfig.cache
