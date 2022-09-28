@@ -3,6 +3,7 @@ int number;
 number = Convert.ToInt32(Console.ReadLine());
 if ( number > 99999 || number < 10000) 
 Console.WriteLine("Данное число не пятизначное");
+return;
 int firsttwodigit = number / 1000;
 
 while (number > 100)
