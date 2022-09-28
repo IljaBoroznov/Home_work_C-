@@ -1,0 +1,16 @@
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\bin\Debug\net6.0\task-21.exe
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\bin\Debug\net6.0\task-21.deps.json
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\bin\Debug\net6.0\task-21.runtimeconfig.json
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\bin\Debug\net6.0\task-21.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\bin\Debug\net6.0\ref\task-21.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\bin\Debug\net6.0\task-21.pdb
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.GlobalUsings.g.cs
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.AssemblyInfo.cs
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\ref\task-21.dll
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.pdb
+C:\Users\Илья\Desktop\GeekBrains\C#\Home_work_C#\Home-work-3\task-21\obj\Debug\net6.0\task-21.genruntimeconfig.cache

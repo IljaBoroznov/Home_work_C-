@@ -16,8 +16,6 @@ by = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите Z точки В  ");
 int bz;
 bz = Convert.ToInt32(Console.ReadLine());
-double result = Math.Sqrt((xa - xb) * (xa - xb) + (ya - yb) * (ya - yb)); // квадратный корень из числа
-double resultRound = Math.Round(result, 2); // округление до 2 знаков после запятой
-
-
+double result = Math.Sqrt((ax - bx) * (ax - bx) + (ay - by) * (ay - by) + (az - bz) * (az - bz)); 
+double resultRound = Math.Round(result, 2); 
 Console.WriteLine($" AB = {resultRound}");
