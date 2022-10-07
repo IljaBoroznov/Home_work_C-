@@ -16,15 +16,8 @@ PrintArray(array);
 double max = MaxDigit(array);
 double min = MinDigit(array);
 double result = default;
-if(max > 0 && min > 0)
-{
-result = max - min;
-}
-if(max > 0 && min < 0)
-{
-    result = max + min;
-}
 
+result = max - min;
 
 Console.Write($" = {result}");
 Console.WriteLine();
