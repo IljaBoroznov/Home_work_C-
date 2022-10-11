@@ -24,6 +24,11 @@ max = Convert.ToInt32(Console.ReadLine());
 
 int[,] matrix = CreateMatrixRndInt(rows, columns, min, max);
 PrintMatrix(matrix);
+double[] res = ArithmeticMeanInColumns(matrix);
+Console.Write("Среднее арифметическое каждого столбца:");
+PrintArray(res);
+
+
 
 double[] ArithmeticMeanInColumns(int[,] matr)
 {
@@ -39,10 +44,6 @@ double[] ArithmeticMeanInColumns(int[,] matr)
     }
     return result;
 }
-double[] res = ArithmeticMeanInColumns(matrix);
-Console.Write("Среднее арифметическое каждого столбца:");
-PrintArray(res);
-
 
 int[,] CreateMatrixRndInt(int rows, int columns, int min, int max)
 {
