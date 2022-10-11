@@ -37,7 +37,7 @@ int[,] matrix = CreateMatrixRndInt(rows, columns, min, max);
 int a = SearchElementInMatrix(matrix, searchrows, searchcolumns);
 
 PrintMatrix(matrix);
-if(a != -100000)
+if(a != -1)
 {
     Console.WriteLine($"элемент из {searchrows} строки и {searchcolumns} столбца = {a}");
 }
@@ -53,7 +53,7 @@ int SearchElementInMatrix(int[,] matrix, int rows, int columns)
     {
         result = matrix[rows - 1, columns - 1];
     }
-    else result = -100000;
+    else result = -1;
     return result;
 }
 
