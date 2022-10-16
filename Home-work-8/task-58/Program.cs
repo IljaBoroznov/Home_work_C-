@@ -27,9 +27,15 @@ int[,] matrix2 = CreateMatrixRndInt(rows, columns, min, max);
 PrintMatrix(matrix);
 Console.WriteLine();
 PrintMatrix(matrix2);
+if(matrix.GetLength(0) == matrix2.GetLength(1))
+{
 int[,] newmatrix = UmnozhitMatrix(matrix, matrix2);
 Console.WriteLine($"Результат умножения");
 PrintMatrix(newmatrix);
+}
+else
+Console.WriteLine($"Матрицs нельзя умножить");
+
 
 
 int[,] UmnozhitMatrix(int[,] matr, int[,] matr2)
