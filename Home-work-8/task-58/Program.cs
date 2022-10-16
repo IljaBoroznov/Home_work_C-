@@ -27,15 +27,28 @@ int[,] matrix2 = CreateMatrixRndInt(rows, columns, min, max);
 PrintMatrix(matrix);
 Console.WriteLine();
 PrintMatrix(matrix2);
+int[,] newmatrix = UmnozhitMatrix(matrix, matrix2);
+Console.WriteLine($"Результат умножения");
+PrintMatrix(newmatrix);
 
 
+int[,] UmnozhitMatrix(int[,] matr, int[,] matr2)
+{
+    int[,] newmatr = new int[matr.GetLength(0), matr.GetLength(1)];
+    for (int i = 0; i < matr.GetLength(0); i++)
+    {
+        for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            for (int n = 0; n < matr.GetLength(0); n++)
+            {
+                newmatr[i, j] = newmatr[i, j] + matr[i, n] * matr2[n, j];
+            }
+        
+        }
 
-
-
-
-
-
-
+    }
+    return newmatr;
+}
 
 
 
