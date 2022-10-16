@@ -41,7 +41,11 @@ int[,] ArrangeRows(int[,] matr)
         {
             temp[j] = matr[i, j];
         }
-        Array.Sort(temp);
+        
+        
+        SortArrayDown(temp);
+        
+        //Array.Sort(temp);
         for (int j = 0; j < matr.GetLength(1); j++)
         {
             newmatr[i, j] = temp[j];
@@ -49,6 +53,7 @@ int[,] ArrangeRows(int[,] matr)
     }
     return newmatr;
 }
+
 
 
 
@@ -78,4 +83,21 @@ void PrintMatrix(int[,] matrix)
         }
         Console.WriteLine(" |");
     } 
+}
+
+void SortArrayDown(int[] arr)
+{
+    for (int i = 0; i < arr.Length - 1; i++)
+    {
+        for (int j = 0; j < arr.Length - 1; j++)
+        {
+            if(arr[j] < arr[j + 1])
+            {
+                int temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+            
+        }
+    }
 }
